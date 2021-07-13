@@ -1,7 +1,7 @@
 import {Component} from '@angular/core';
 import { ProductService } from './productservice';
 import { Product } from './product';
-import { FilterUtils } from 'primeng/utils';
+// import { FilterUtils } from 'primeng/utils';
 import { LazyLoadEvent } from 'primeng/api';
 import { SelectItem } from 'primeng/api';
 import {MessageService} from 'primeng/api';
